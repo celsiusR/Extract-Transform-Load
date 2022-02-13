@@ -34,7 +34,7 @@ Deliverable 4 -  ETL_create_database.ipynb
 
 (All pictures protected by source other than this author)
 
-![image-20220212221835924](Resources/Kaggle.png)
+![image-20220212221835924](Resources/kaggle.png)
 
 
 
