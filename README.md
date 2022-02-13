@@ -27,7 +27,7 @@ Deliverable 4 -  ETL_create_database.ipynb
 
 | Movies_query.png                                             | Ratings_query.png                                            | Rows inserted in movies db                                   |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![img](C:\Rutgers\module-challenges\module-8\Resources\clip_image002.png) | ![img](C:\Rutgers\module-challenges\module-8\Resources\clip_image004.png) | ![img](C:\Rutgers\module-challenges\module-8\Resources\clip_image006.png) |
+| ![img](Resources/clip_image002.png) | ![img](Resources/clip_image004.png) | ![img](/Resources/clip_image006.png) |
 |                                                              |                                                              |                                                              |
 
 ## What is Kaggle? 
