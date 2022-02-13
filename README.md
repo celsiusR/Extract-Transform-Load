@@ -11,7 +11,7 @@ This project consists of three deliverables:
 
 The project as a whole is based on the ETL concept of Extract, Process and Load. There are unique concepts implemented in the code which include the development and use of functions, the parsing and cleaning of data using the Python Regular Expression set and the loading of processed and curated data to a persistent database (PostgreSQL).
 
-![etl](C:\Rutgers\module-challenges\module-8\Resources\etl.PNG)
+![etl](Resources/etl.PNG)
 
 The entire project is written in Python.
 
@@ -34,7 +34,7 @@ Deliverable 4 -  ETL_create_database.ipynb
 
 (All pictures protected by source other than this author)
 
-![image-20220212221835924](C:\Rutgers\module-challenges\module-8\Resources\Kaggle.png)
+![image-20220212221835924](Resources/Kaggle.png)
 
 
 
@@ -42,4 +42,4 @@ Deliverable 4 -  ETL_create_database.ipynb
 
 (All pictures in information protected by source other than this author)
 
-![image-20220212221957317](C:\Rutgers\module-challenges\module-8\Resources\wikipedia.png)
+![image-20220212221957317](Resources/wikipedia.png)
