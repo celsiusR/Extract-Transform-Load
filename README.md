@@ -25,7 +25,7 @@ Deliverable 4 -  ETL_create_database.ipynb
 
 ### Artifacts provide for validating accuracy include
 
-| Movies_query.png                                             | Ratings_query.png                                            | Rows inserted in movies db                                   |
+| Movies_query.png                                             | Ratings_query.png                                            | Rows inserted in movies table                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![img](Resources/clip_image002.png) | ![img](Resources/clip_image004.png) | ![img](/Resources/clip_image006.png) |
 |                                                              |                                                              |                                                              |
