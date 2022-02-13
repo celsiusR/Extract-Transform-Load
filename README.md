@@ -27,7 +27,7 @@ Deliverable 4 -  ETL_create_database.ipynb
 
 | Movies_query.png                                             | Ratings_query.png                                            | Rows inserted in movies db                                   |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![img](file:///C:/Users/Exceed/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png) | ![img](file:///C:/Users/Exceed/AppData/Local/Temp/msohtmlclip1/01/clip_image004.png) | ![img](file:///C:/Users/Exceed/AppData/Local/Temp/msohtmlclip1/01/clip_image006.png) |
+| ![img](Resources/movies_query.png) | ![img](ratings_query.png) | ![img](Resources/26024289-rows-added-to-ratings.png) |
 |                                                              |                                                              |                                                              |
 
 ## What is Kaggle? 
